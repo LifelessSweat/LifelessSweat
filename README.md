@@ -1,3 +1,3 @@
 ### 🐍 My GitHub Contribution Snake
 
-![GitHub Snake](https://githubusercontent.com<LifelessSweat/<LifelessSweat>/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://githubusercontent.comLifelessSweat/LifelessSweat/output/github-contribution-grid-snake.svg)

@@ -1,7 +1,7 @@
 # 👋 Hi, I'm LifelessSweat!
 
 ### 📊 My Live GitHub Stats
-[![GitHub Stats](https://vercel.app)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://vercel.app)]([![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LifelessSweat&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=LifelessSweat&include_all_commits=true&theme=dark_github))
 
 
 

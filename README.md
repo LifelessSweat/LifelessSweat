@@ -1,3 +1,7 @@
 ### 🐍 My GitHub Contribution Snake
 
-![GitHub Snake](https://githubusercontent.comLifelessSweat/LifelessSweat/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Snake" src="https://githubusercontent.com">
+</picture>

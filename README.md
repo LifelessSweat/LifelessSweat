@@ -1,7 +1,8 @@
 # 👋 Hi, I'm LifelessSweat!
 
-### 📊 My Live GitHub Stats (Instant Refresh)
-[![GitHub Stats](https://vercel.app)](https://github.com)
+### 📊 My Live GitHub Stats
+[![GitHub Stats](https://vercel.app)](https://github.com/stats-organization/github-stats-extended)
+
 
 
 ---

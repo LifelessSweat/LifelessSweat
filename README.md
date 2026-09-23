@@ -1,7 +1,1 @@
-# 👋 Hi, I'm LifelessSweat!
-
-### 📊 My Live GitHub Stats
-[![LifelessSweat's GitHub stats](https://vercel.app)](https://github.com)
-
----
-Welcome to my profile! I am a developer building projects and tracking my coding analytics right here.
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=LifelessSweat&layout=compact&custom_title=Coding%20languages&langs_count=7&display_format=percent&theme=dark_github)](https://wakatime.com/@alan)

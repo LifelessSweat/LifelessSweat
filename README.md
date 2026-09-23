@@ -6,14 +6,8 @@
 
 ---
 
-### 🏆 My GitHub Achievements
-Here are my live profile trophies (automatically tracked and heavily cached):
-
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="LifelessSweat's Trophies" />
-  </a>
-</p>
+### 📂 Featured Repositories
+*(You don't need code for this! Go to your main GitHub Profile page, click **"Customize your pins"**, and select your best 6 repositories. GitHub will beautifully display them right below this README automatically!)*
 
 ---
 

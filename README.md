@@ -1,3 +1,3 @@
 ### 🐍 My GitHub Contribution Snake
 
-![GitHub Snake](https://githubusercontent.com)
+![GitHub Snake](https://github.com)

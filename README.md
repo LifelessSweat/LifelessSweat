@@ -3,20 +3,22 @@
 ### 💻 About Me
 - 🚀 I'm a developer building cool projects on GitHub.
 - 📚 Currently learning new frameworks and sharpening my skills.
-- ⚡ Fun fact: I swapped out a broken snake game for these cool live stats.
 
 ---
 
-### 📊 My GitHub Analytics
+### 🏆 My GitHub Achievements
+Here are my live profile trophies (automatically tracked and heavily cached):
 
 <p align="center">
-  <img src="https://vercel.app" alt="LifelessSweat's GitHub Stats" height="192px" />
-  <img src="https://vercel.app" alt="LifelessSweat's Top Languages" height="192px" />
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="LifelessSweat's Trophies" />
+  </a>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
+These clean vector icons load instantly directly from an independent CDN:
 
 <p align="center">
   <a href="https://skillicons.dev">

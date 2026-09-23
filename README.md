@@ -1,1 +1,1 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=LifelessSweat&layout=compact&custom_title=Coding%20languages&langs_count=7&display_format=percent&theme=dark_github)](https://wakatime.com/@alan)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LifelessSweat&custom_title=My%20stats&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=LifelessSweat&custom_title=My%20stats&show_icons=true&include_all_commits=true&theme=dark_github)

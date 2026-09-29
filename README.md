@@ -1,11 +1,11 @@
-<!-- CONTRIBUTION STREAK -->
-[![GitHub Streak](https://demolab.com)](https://git.io)
+<!-- GENERAL STATS CARD -->
+[![GitHub Stats](https://vercel.app)](https://github.com/stats-organization/github-stats-extended)
 
-<!-- GENERAL STATS -->
-[![GitHub Stats](https://vercel.app)](https://vercel.app)
+<!-- TOP LANGUAGES CARD -->
+[![Top Langs](https://vercel.app)](https://github.com/stats-organization/github-stats-extended)
 
-<!-- TOP LANGUAGES -->
-[![Top Langs](https://vercel.app)](https://github-stats-extended.vercel.app/api/top-langs?username=LifelessSweat&langs_count=4&theme=dark_github)
+<!-- CONTRIBUTION STREAK CARD -->
+[![GitHub Streak](https://vercel.app)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 This is my profile I mostly do polytrack mods but I also do random stuff.
